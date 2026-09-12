@@ -1,3 +1,15 @@
+[
+  {
+    "episode_number": 1,
+    "name": "Ep 1 - Good vs. Evil",
+    "date_upload": "2023-01-26T00:00:00"
+  },
+  {
+    "episode_number": 1.5,
+    "name": "Ep 1.5 - Inori",
+    "scanlator": "Ending"
+  }
+]
 ---
 title: Advanced editing
 titleTemplate: Local anime source - Guides
